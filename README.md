@@ -3,6 +3,7 @@ Welcome to "Beam" - Your Premium Game Repository! 🎮
 Beam is a cutting-edge, web-based game repository website crafted using React. It serves as a user-friendly alternative to platforms like Steam, designed to enhance your gaming experience.
 
 Getting Started
+
 Before you embark on your gaming journey with Beam, ensure you have Node.js installed on your PC. If not, you can download it from nodejs.org.
 
 To get started, follow these steps:
