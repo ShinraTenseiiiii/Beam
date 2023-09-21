@@ -18,7 +18,7 @@ const GenreList = () => {
 
   if (error) return null;
 
-  if (isLoading) return <Spinner />;
+  if (isLoading) return <Spinner/>;
 
   return (
     <>
